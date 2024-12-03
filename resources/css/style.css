@@ -1,4 +1,16 @@
-.bg-custom{
+.bg-custom {
     background-color: rgb(14, 56, 40);
+}
+
+.bg-sec {
+    background-color: rgba(193, 216, 193, 0.7);
+}
+
+.min-h {
+    min-height: 70vh;
+}
+
+a {
+    color: rgb(14, 56, 40);
 }
 
